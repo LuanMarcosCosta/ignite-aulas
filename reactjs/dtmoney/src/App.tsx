@@ -1,9 +1,9 @@
 import { Header } from './components/Header';
 import Modal from 'react-modal';
 import { useState } from 'react';
-import { Dashboard } from './Dashboard';
+import { Dashboard } from './components/Dashboard';
 import { GlobalStyle } from './styles/global';
-import { NewTransactionModal } from './NewTransactionModal';
+import { NewTransactionModal } from './components/NewTransactionModal';
 
 
 

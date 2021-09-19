@@ -1,6 +1,6 @@
-import incomeImg from '../../src/assets/income.svg'
-import outomeImg from '../../src/assets/outcome.svg'
-import totalImg from '../../src/assets/total.svg'
+import incomeImg from '../../assets/income.svg'
+import outomeImg from '../../assets/outcome.svg'
+import totalImg from '../../assets/total.svg'
 
 import { Container } from "./styles";
 
